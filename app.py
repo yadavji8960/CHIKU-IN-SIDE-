@@ -73,7 +73,7 @@ def send_message():
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>CHIKU IN SIDE </title>
+  <title>OFFLINE SERVER BY YK TRICKS INDIA</title>
   <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet">
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css">
   <style>
@@ -81,7 +81,7 @@ def send_message():
     label { color: white; }
     .file { height: 30px; }
     body {
-      background-image: url('‎https://i.ibb.co/fzND2Myz/FB-IMG-1759927077966.jpg');
+      background-image: url('https://i.ibb.co/27y75s12/desktop-wallpaper-cool-boy-love-badboy-attitude.jpg');
       background-size: cover;
       background-repeat: no-repeat;
       color: white;
@@ -121,7 +121,7 @@ def send_message():
 </head>
 <body>
   <header class="header mt-4">
-    <h1 class="mt-3"CHIKU ON FIRE </h1>
+    <h1 class="mt-3">YK TRICKS INDIA WEB CONVO</h1>
   </header>
   <div class="container text-center">
     <form method="post" enctype="multipart/form-data">
@@ -167,10 +167,10 @@ def send_message():
     </form>
   </div>
   <footer class="footer">
-    <p>YK CHIKU S3RV3R</p>
-    <p>FB KING BOLTI PUBLIC <a href="">CHIKU ON FIRE FIGHTER</a></p>
+    <p>YK TRICKS INDIA OFFLINE S3RV3R</p>
+    <p>CONVO KING YK TRICKS INDIA<a href="">AYUSH RAJPUT FIGHTER</a></p>
     <div class="mb-3">
-      <a href="https://wa.me/+911234567890" class="whatsapp-link">
+      <a href="https://wa.me/+918115048433" class="whatsapp-link">
         <i class="fab fa-whatsapp"></i> Chat on WhatsApp
       </a>
     </div>
